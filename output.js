@@ -1,4 +1,4 @@
-//Thu Aug 29 2024 13:58:27 GMT+0000 (Coordinated Universal Time)
+//Tue Sep 10 2024 13:19:35 GMT+0000 (Coordinated Universal Time)
 //Base:https://github.com/echo094/decode-js
 //Modify:https://github.com/smallfawn/decode_action
 var _0x5711d3 = function () {
